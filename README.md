@@ -1,1 +1,1 @@
-# TinDog2
+# TinDog
